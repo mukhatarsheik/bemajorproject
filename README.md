@@ -129,9 +129,13 @@ open that highlited folder in which you will find another two more folders open 
 ![image](https://user-images.githubusercontent.com/93753343/140537707-af94897c-354c-4cf4-9b35-a443c259ed57.png)
 
 
+
 sky130_fd_sc_hd__tt_025C_1v80.lib
 sky130_fd_sc_hd.v
 primitives.v 20
+
+![image](https://user-images.githubusercontent.com/93753343/140538489-f3b201c5-b00f-4919-8313-33100230667b.png)
+
 now come back to VScode Terminal and follow the below given steps for simulation.
 
 Step-1
