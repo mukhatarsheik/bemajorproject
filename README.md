@@ -42,11 +42,13 @@ Step-3
 
 creat new file with .v extension for example (demux14.v), by clicking the shown button
 
-5
+![image](https://user-images.githubusercontent.com/93753343/140523061-892fc9ed-38ba-445d-8605-7893062ea4bc.png)
+
 
 write the verilog code for demux directory in that folder
 
-6
+![image](https://user-images.githubusercontent.com/93753343/140523462-7b0b8f07-ae5a-4db4-8f6b-3dbc1ada3b3a.png)
+
 
 (i will update a repository for various verilog modules, for now get verilog codes here : https://github.com/vision-vlsi/verilog/tree/main/Combinational_circuits )
 
@@ -56,7 +58,8 @@ Step-4 Creat a TestBench file for the written verilog module. the main key point
 
 2.include "$monitor"
 
-7
+![image](https://user-images.githubusercontent.com/93753343/140523783-b9f2bf50-1d07-4b0a-a733-a35495d0286d.png)
+
 
 Step-5 Now open a new terminal as shown
 
