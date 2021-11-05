@@ -63,12 +63,16 @@ Step-4 Creat a TestBench file for the written verilog module. the main key point
 
 Step-5 Now open a new terminal as shown
 
-8
+![image](https://user-images.githubusercontent.com/93753343/140525701-8eb0527b-27ad-47f0-ae92-0a6f7153fc15.png)
+
 
 In terminal type the following commands
 
 iverilog modulename testbenchname in my case => iverilog demux14.v tb.v 10
 after this a new file "a.out" is generated use following command 11
+
+![image](https://user-images.githubusercontent.com/93753343/140526249-59d78a17-502b-49a5-86bf-ae41a4227945.png)
+
 
 Step-6
 
@@ -92,6 +96,9 @@ all Required Codes for Simulation
 
 iverilog modulename.v testbenchname.v
 vvp a.out
+![image](https://user-images.githubusercontent.com/93753343/140526937-f84e8301-0628-4e97-89be-22ed7fc26011.png)
+
+
 gtkwave name.vcd
 #Module-2
 
