@@ -87,6 +87,9 @@ you will be able to see resut in terminal as well as a new file with .vcd extent
 
 Step-7
 
+![image](https://user-images.githubusercontent.com/93753343/140535717-1f53016f-2387-484a-b361-da69fd45af99.png)
+
+
 for generating waveforms we are using gtkwave EDA Tool for waveform representation. use the following command for opening .vcd file in gtkwave
 
 3.gtkwave modulename.vcd in my case => gtkwave encoder8to3.vcd 14
