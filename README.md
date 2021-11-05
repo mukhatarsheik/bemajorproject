@@ -30,7 +30,8 @@ open vscode and in vscode click openfolder using any of the two methods
 
 Step-2 Creat New Folder as shown and name it. In my case demux14
 
-3
+![image](https://user-images.githubusercontent.com/93753343/140522092-f34f18d7-5c53-409f-8fc1-0338c2456269.png)
+
 
 after this select the created folder and click selectfolder button as shown
 
