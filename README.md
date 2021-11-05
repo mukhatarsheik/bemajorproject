@@ -35,7 +35,8 @@ Step-2 Creat New Folder as shown and name it. In my case demux14
 
 after this select the created folder and click selectfolder button as shown
 
-4
+![image](https://user-images.githubusercontent.com/93753343/140522592-8054edd4-4538-42f3-b234-708b7bc4f766.png)
+
 
 Step-3
 
