@@ -1,6 +1,6 @@
-#my name is shaik musharraf ali
+# my name is shaik musharraf ali
 
-i am an engineering student of ece 4th year student
+* i am an engineering student of ece 4th year student
 
 my be major project name is implementation and physical design of 8/4-bit signed divider
 
