@@ -78,7 +78,12 @@ Step-6
 
 2.vvp a.out 12
 
+![image](https://user-images.githubusercontent.com/93753343/140526937-f84e8301-0628-4e97-89be-22ed7fc26011.png)
+
 you will be able to see resut in terminal as well as a new file with .vcd extention which is further use for generating waveforms13
+
+![image](https://user-images.githubusercontent.com/93753343/140528704-2466860a-adeb-4b1d-ab96-d60d2f1c0b7d.png)
+
 
 Step-7
 
@@ -96,7 +101,7 @@ all Required Codes for Simulation
 
 iverilog modulename.v testbenchname.v
 vvp a.out
-![image](https://user-images.githubusercontent.com/93753343/140526937-f84e8301-0628-4e97-89be-22ed7fc26011.png)
+
 
 
 gtkwave name.vcd
