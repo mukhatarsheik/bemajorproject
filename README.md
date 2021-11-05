@@ -177,21 +177,31 @@ For mapping flip-flops to library use following command : dfflibmap -liberty sky
 
 Step-6
 
-For mapping logic to library file use following command : abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 26
+For mapping logic to library file use following command : abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 
+
+![image](https://user-images.githubusercontent.com/93753343/140544371-2adfd8ae-5a6f-4e06-a6f3-d3232aeb659f.png)
+
 
 Step-7
 
+![image](https://user-images.githubusercontent.com/93753343/140544970-9a7d67e6-22b4-4d96-8ade-5f5e5af7e4f2.png)
+type this following command tee -o report.txt stat skyfile full name
+
+
+
+step-8
+
 for downloading netlist file type : show 35 34
-
-Step-8
-
-now use following command : tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 27
 
 Step-9
 
-we are done with synthesys now we need to download or write the synthesys file into some sort of file mainly in verilog formate for this use : write_verilog -noattr netlist.v 28
+now use following command : tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 27
 
 Step-10
+
+we are done with synthesys now we need to download or write the synthesys file into some sort of file mainly in verilog formate for this use : write_verilog -noattr netlist.v 28
+
+Step-11
 
 now we can exit for yosys tool for tha simply type "exit" and hit enter 29
 
