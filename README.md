@@ -96,6 +96,14 @@ for generating waveforms we are using gtkwave EDA Tool for waveform representati
 
 the following window pop's up click the testbench as shown and append ports.after that click zoom fit butten to observe all changing waveforms in a single window use mouse and click on the various points on waves to observe the values on left signals window. 15
 
+![image](https://user-images.githubusercontent.com/93753343/140536104-8f5019a9-d2b1-4473-b085-fcb8335d1980.png)
+
+![image](https://user-images.githubusercontent.com/93753343/140536625-e1463b39-ba73-421b-9d3b-f8845f48e91a.png)
+
+![image](https://user-images.githubusercontent.com/93753343/140536817-1a4db2dd-742a-4516-9593-6019820be3f1.png)
+
+
+
 16
 
 17
