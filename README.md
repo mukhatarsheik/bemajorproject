@@ -142,9 +142,15 @@ Step-1
 
 In terminal Type yosys to open yosys tool 21
 
+![image](https://user-images.githubusercontent.com/93753343/140539273-367d6dba-a6f1-48a7-b6c0-55f664bada21.png)
+
+
 Step-2
 
 if no errors come then follow the next command Type: read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib
+
+![image](https://user-images.githubusercontent.com/93753343/140539772-0a51c4b9-112c-4960-aea4-ae53f144d1a4.png)
+
 
 22
 
@@ -152,13 +158,22 @@ Step-3
 
 after that type : read_verilog encoder.v // this command is use for reading module wirtten in verilog 23
 
+![image](https://user-images.githubusercontent.com/93753343/140540295-44683703-6ba6-443d-b72f-de84094c31f2.png)
+
+
 Step-4
 
 after that use syntax for synthesys process : synth -top modulename // modulename means the name given in the main verilog code file for example "module modulename(i,o)" 24
 
+![image](https://user-images.githubusercontent.com/93753343/140540988-79c6f58e-da67-4943-8a35-30b6e9df83b4.png)
+
+
 Step-5
+![image](https://user-images.githubusercontent.com/93753343/140542145-1d07e26f-4313-4a70-bd71-f952a8f2380e.png)
 
 For mapping flip-flops to library use following command : dfflibmap -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 25
+
+
 
 Step-6
 
