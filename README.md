@@ -22,9 +22,11 @@ Step-1
 
 open vscode and in vscode click openfolder using any of the two methods
 
-1
+![image](https://user-images.githubusercontent.com/93753343/140521231-c3797960-6719-4e8b-9aaf-94003ac11ef2.png)
 
-2
+![image](https://user-images.githubusercontent.com/93753343/140521597-593760df-8d34-4853-8935-26d099963ef3.png)
+
+
 
 Step-2 Creat New Folder as shown and name it. In my case demux14
 
