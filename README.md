@@ -103,11 +103,6 @@ the following window pop's up click the testbench as shown and append ports.afte
 ![image](https://user-images.githubusercontent.com/93753343/140536817-1a4db2dd-742a-4516-9593-6019820be3f1.png)
 
 
-
-16
-
-17
-
 all Required Codes for Simulation
 
 iverilog modulename.v testbenchname.v
@@ -126,11 +121,13 @@ Please do the basic requirements before starting for that follow this repository
 
 in this synthesys process we are using SKY130 liberary File. all the required files will be provided above. after downloading all the required files you will se a folder like this
 
-18
+![image](https://user-images.githubusercontent.com/93753343/140537429-cd6cd6e2-186b-479f-96c1-94e707f1d6af.png)
+
 
 open that highlited folder in which you will find another two more folders open simultaneously this two folders and copy all the files from it and paste it in the main module folder which we have created in the begining.(total 3 files you have to copy and paste names are as followes
 
-19
+![image](https://user-images.githubusercontent.com/93753343/140537707-af94897c-354c-4cf4-9b35-a443c259ed57.png)
+
 
 sky130_fd_sc_hd__tt_025C_1v80.lib
 sky130_fd_sc_hd.v
