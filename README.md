@@ -184,24 +184,35 @@ For mapping logic to library file use following command : abc -liberty sky130_fd
 
 Step-7
 
-![image](https://user-images.githubusercontent.com/93753343/140544970-9a7d67e6-22b4-4d96-8ade-5f5e5af7e4f2.png)
-type this following command tee -o report.txt stat skyfile full name
 
-
-
-step-8
 
 for downloading netlist file type : show 35 34
 
-Step-9
+Step-8
+
+![image](https://user-images.githubusercontent.com/93753343/140544970-9a7d67e6-22b4-4d96-8ade-5f5e5af7e4f2.png)
+type this following command tee -o report.txt stat skyfile full name
 
 now use following command : tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib 27
 
-Step-10
+Step-9
+
+![image](https://user-images.githubusercontent.com/93753343/140546542-ffd36759-44a4-43cd-a081-aae6753a677c.png)
+
+![image](https://user-images.githubusercontent.com/93753343/140546841-5cfbc8cc-2244-4f65-bb10-1d3c790381ed.png)
+
+follow as per the given instruction shown
+
+
+![image](https://user-images.githubusercontent.com/93753343/140548335-4a430e70-1a37-4198-a86b-f63b907222ac.png)
 
 we are done with synthesys now we need to download or write the synthesys file into some sort of file mainly in verilog formate for this use : write_verilog -noattr netlist.v 28
 
-Step-11
+
+Step-10
+
+![image](https://user-images.githubusercontent.com/93753343/140547059-7c698b14-8a0f-4843-b223-203f1dace985.png)
+
 
 now we can exit for yosys tool for tha simply type "exit" and hit enter 29
 
@@ -209,7 +220,13 @@ at the end you will report.txt file and netlist.v
 
 in which report.txt file shows the statistical data of the design made 32
 
+![image](https://user-images.githubusercontent.com/93753343/140547456-3cc8e137-9e2b-496c-b8c0-bc79d0f12555.png)
+
+
 and netlist.v file shows the all the detailed information which requred to make a intigrated Circuit. This is the file we give to foundry for making a physical copy. 33
+
+![image](https://user-images.githubusercontent.com/93753343/140549504-fe43cb15-69d7-4584-af4b-ec816785360f.png)
+
 
 all required module-2 commands
 
