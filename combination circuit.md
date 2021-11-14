@@ -8,11 +8,15 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 ### HERE I AM JUST PROVIDING YOU THE CODE FILE AND YOU NEED TO UNDERSTAND THEM PERFORM THE STIMULATION
 
-1.file will be the module code file of mux
+1.file will be the module code file of mux 
+
+
 
 2.this will be our testbench for the mux ckt
 
 3.A.OUT FILE this file appear compiling
 
 4.VVP FILE to show the graphical wave of ckt as per the i/p and o/p 
+
+5.NOW ADD SKY130_LIB FILE from my s
 
