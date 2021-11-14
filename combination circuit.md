@@ -12,4 +12,7 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 2.this will be our testbench for the mux ckt
 
+3.A.OUT FILE this file appear compiling
+
+4.VVP FILE to show the graphical wave of ckt as per the i/p and o/p 
 
