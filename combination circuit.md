@@ -18,7 +18,7 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 4.VVP FILE to show the graphical wave of ckt as per the i/p and o/p 
 
-5.NOW ADD SKY130_LIB FILE in your mux folder from my sky130 file from my sky reporitory and three file from it 1)sky130_fd_sc_hd__tt_025C_1v80 2)
+5.NOW ADD SKY130_LIB FILE in your mux folder from my sky130 file from my sky reporitory and three file from it 1)sky130_fd_sc_hd__tt_025C_1v80 2)SKY130_FD_SC_HD 3)
 
 6.
 
