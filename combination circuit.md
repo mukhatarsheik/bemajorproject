@@ -20,5 +20,5 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 5.NOW ADD SKY130_LIB FILE in your mux folder from my sky130 file from my sky reporitory and three file from it 1)sky130_fd_sc_hd__tt_025C_1v80 2)SKY130_FD_SC_HD 3)primitive
 
-6.
+6.now invoke YOSYS tool and start typing the comments and follow the step in my readme resporatory file 
 
