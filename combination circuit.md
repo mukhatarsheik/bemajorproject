@@ -24,5 +24,5 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 7.after the completion of yosys type exit and leave yosys and then
 
-8. go for gate level simulation
+8. go for gate level simulation using the command " iverilog netlist file + skyhd.v file + test bench file"
 
