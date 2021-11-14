@@ -643,7 +643,8 @@ $end
 
 5.NOW ADD SKY130_LIB FILE in your mux folder from my sky130 file from my sky reporitory and three file from it 1)sky130_fd_sc_hd__tt_025C_1v80 2)SKY130_FD_SC_HD 3)primitive
 
-6.now invoke YOSYS tool and start typing the comments and follow the step in my readme resporatory file 
+#### 6.now invoke YOSYS tool and start typing the comments and follow the step in my readme resporatory file 
+ yosys read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib read_verilog encoder.v synth -top modulename dfflibmap -liberty sky130_fd_sc_hd__tt_025C_1v80.lib abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib show tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib write_verilog -noattr netlist.v exit 
 
 7.after the completion of yosys type exit and leave yosys and then
 
