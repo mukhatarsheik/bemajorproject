@@ -2,7 +2,7 @@
 
 # IN COMBINATION CIRCUIT 
 
-##** we will perform the stimulation and synthese of mux 4:1(mux)**
+## **we will perform the stimulation and synthese of mux 4:1(mux)**
 
 this is going to done by using the step which i had mention in my readme.md file in this same repository 
 
