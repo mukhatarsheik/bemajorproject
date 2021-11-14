@@ -22,8 +22,8 @@ in this is file i am going to upload the code file for stimulation of 4bit regis
 #### 6.now invoke YOSYS tool and start typing the comments and follow the step in my readme resporatory file 
  yosys read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib read_verilog encoder.v synth -top modulename dfflibmap -liberty sky130_fd_sc_hd__tt_025C_1v80.lib abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib show tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib write_verilog -noattr netlist.v exit 
 
-7.after the completion of yosys type exit and leave yosys and then
+#### 7.after the completion of yosys type exit and leave yosys and then
 
-8. go for gate level simulation using the command " iverilog netlist file + skyhd.v file + test bench file"
+#### 8. go for gate level simulation using the command " iverilog netlist file + skyhd.v file + test bench file"
 
 
