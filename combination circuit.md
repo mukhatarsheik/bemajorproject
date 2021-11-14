@@ -22,3 +22,7 @@ in this is file i am going to upload the code file for stimulation of 4:1 mux ck
 
 6.now invoke YOSYS tool and start typing the comments and follow the step in my readme resporatory file 
 
+7.after the completion of yosys type exit and leave yosys and then
+
+8. go for gate level simulation
+
