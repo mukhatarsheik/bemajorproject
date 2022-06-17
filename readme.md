@@ -92,14 +92,16 @@ Step-7
 
 for generating waveforms we are using gtkwave EDA Tool for waveform representation. use the following command for opening .vcd file in gtkwave
 
-3.gtkwave modulename.vcd in my case => gtkwave encoder8to3.vcd 14
+3.gtkwave modulename.vcd in my case => gtkwave encoder8to3.vcd 
 
-the following window pop's up click the testbench as shown and append ports.after that click zoom fit butten to observe all changing waveforms in a single window use mouse and click on the various points on waves to observe the values on left signals window. 15
+the following window pop's up click the testbench as shown and append ports.after that click zoom fit butten to observe all changing waveforms in a single window use mouse and click on the various points on waves to observe the values on left signals window. 
 
 
-[![image](https://user-images.githubusercontent.com/93753343/140536625-e1463b39-ba73-421b-9d3b-f8845f48e91a.png)](https://github.com/mukhatarsheik/bemajorproject)
+![image](https://user-images.githubusercontent.com/93753343/174350449-9c860f4a-1bbf-4212-9482-ec1d8fcff340.png)
 
-![image](https://user-images.githubusercontent.com/93753343/140536817-1a4db2dd-742a-4516-9593-6019820be3f1.png)
+
+![image](https://user-images.githubusercontent.com/93753343/174350634-a6169ae1-a656-4fbc-a90e-d25e0c1a54dc.png)
+
 
 
 all Required Codes for Simulation
