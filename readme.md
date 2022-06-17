@@ -198,7 +198,8 @@ now use following command : tee -o report.txt stat -liberty sky130_fd_sc_hd__tt_
 
 Step-9
 
-![image](https://user-images.githubusercontent.com/93753343/140546542-ffd36759-44a4-43cd-a081-aae6753a677c.png)
+![image](https://user-images.githubusercontent.com/93753343/174354283-7350cc3f-1b99-4282-aba5-a11cfcde01c2.png)
+
 
 ![image](https://user-images.githubusercontent.com/93753343/140546841-5cfbc8cc-2244-4f65-bb10-1d3c790381ed.png)
 
